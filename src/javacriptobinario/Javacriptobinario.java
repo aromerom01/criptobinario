@@ -7,10 +7,7 @@ package javacriptobinario;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Andres Julian Romero
- */
+
 public class Javacriptobinario {
 
     /**
